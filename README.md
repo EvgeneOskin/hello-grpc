@@ -1,6 +1,6 @@
 # Hello gRPC
 
-This is a hello-world like project for [gRPC](www.grpc.io) on python.
+This is a hello-world like project for [gRPC](http://www.grpc.io) on python.
 
 ## Features
 
